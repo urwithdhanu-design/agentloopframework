@@ -23,9 +23,6 @@ from agentloop import Agent
 3. Create an **API token**: Account settings → API tokens → “Add API token” (scope: entire account or project `agentloop-framework`).
 4. Save the token (starts with `pypi-`). Do not commit it.
 
-pypi-AgEIcHlwaS5vcmcCJDJjNTEyMDA5LTk0M2YtNDExYy1iZWMxLTA2NGY1NjJhNTIxYgACKlszLCJkYWQ0NjQxZS04YzI1LTQwMDMtYjBkZC00ZDM1NzZmZmExNzIiXQAABiD8JnTW-NaX3EpcKCFUR0hbJHkM630EbpXetYt7-GKKYw
-
-
 Optional test registry (like npm’s dry-run registry):
 
 - [test.pypi.org](https://test.pypi.org) — same flow, upload there first.
