@@ -1,0 +1,13 @@
+# Build artifacts
+static/
+ui/node_modules/
+ui/dist/
+
+# Env secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
