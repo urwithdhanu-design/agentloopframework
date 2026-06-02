@@ -32,8 +32,8 @@ dev = ["pytest>=8.0", "pytest-asyncio>=0.24", "httpx>=0.27.0"]
 examples = ["httpx>=0.27.0", "SpeechRecognition>=3.10.0", "pyttsx3>=2.90"]
 
 [project.urls]
-Homepage = "https://github.com/your-org/agentloop"
-Documentation = "https://github.com/your-org/agentloop#readme"
+Homepage = "https://github.com/urwithdhanu-design/agentloopframework"
+Documentation = "https://github.com/urwithdhanu-design/agentloopframework#readme"
 
 [tool.hatch.build.targets.wheel]
 packages = ["agentloop"]
